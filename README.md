@@ -1,2 +1,2 @@
 # AGRIBOT-using-ARDUINO
-Agribot prototype for automated soil ploughing, auto watering and letting know the farmer, featuring Arduino Uno, motor drivers, sensors, and Bluetooth module for smart agricultural operations.
+an agricultural robot (Agribot) designed for soil ploughing and monitoring. The setup includes an Arduino Uno microcontroller, various sensors and modules, a Bluetooth module, motor driver circuits, and a ploughing mechanism powered by DC motors. The system appears to be built for automation of soil preparation and could potentially support features like soil moisture sensing, obstacle detection, and wireless communication for control and monitoring.
